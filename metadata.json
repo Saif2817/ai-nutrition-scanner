@@ -1,0 +1,7 @@
+{
+  "name": "11th Copy of NutriScan AI",
+  "description": "An AI-powered mobile app to scan food labels, get personalized nutrition guidance in multiple languages, and receive clinically-relevant analysis based on your dietary needs and health conditions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

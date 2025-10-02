@@ -1,0 +1,382 @@
+{
+  "home": {
+    "welcome": "خوش آمدید!",
+    "welcome_subtitle": "صحت مند انتخاب کرنے کے لیے تیار ہیں؟ آئیے کھانے کے لیبل کا تجزیہ کرکے شروع کریں۔",
+    "scan_button": "فوڈ لیبل اسکین کریں",
+    "plate_button": "اپنی پلیٹ اسکین کریں",
+    "chat_button": "AI نیوٹریشن چیٹ",
+    "disclaimer": "دستبرداری: نیوٹری اسکین AI صرف تعلیمی مقاصد کے لیے معلومات فراہم کرتا ہے اور پیشہ ورانہ طبی مشورے کا متبادل نہیں ہے۔"
+  },
+  "navigation": {
+    "back": "پیچھے",
+    "next": "آگے"
+  },
+  "common": {
+    "search": "تلاش کریں..."
+  },
+  "units": {
+    "liter": "لیٹر",
+    "liters": "لیٹر"
+  },
+  "language_selection": {
+    "title": "اپنی زبان منتخب کریں",
+    "continue": "جاری رکھیں",
+    "footer": "آپ اسے بعد میں اپنے پروفائل سے تبدیل کر سکتے ہیں۔"
+  },
+  "profile_main": {
+    "title": "میرا پروفائل",
+    "edit_profile": "میرا پروفائل ترمیم کریں",
+    "how_it_works": "نیوٹری اسکین AI کیسے کام کرتا ہے",
+    "refer_friend": "اپنے خاندان/دوستوں کی مدد کریں",
+    "about": "کے بارے میں",
+    "logout": "لاگ آؤٹ"
+  },
+  "how_it_works_page": {
+    "title": "نیوٹری اسکین AI کیسے کام کرتا ہے",
+    "section1_title": "ہمارا عمل: سادہ اور ذاتی نوعیت کا",
+    "section1_p1": "1. اسکین کریں: اپنے کیمرے سے کسی بھی نیوٹریشن لیبل کو فوری طور پر کیپچر کریں۔",
+    "section1_p2": "2. نکالیں: ہمارا AI لیبل سے تمام ڈیٹا کو احتیاط سے پڑھتا اور ڈیجیٹائز کرتا ہے۔",
+    "section1_p3": "3. تجزیہ کریں: ہم پروڈکٹ کے ڈیٹا کا موازنہ آپ کے منفرد ہیلتھ پروفائل سے کرتے ہیں، بشمول آپ کے اہداف، حالات، اور الرجی۔",
+    "section1_p4": "4. رپورٹ کریں: آپ کو ایک واضح، سمجھنے میں آسان، اور ذاتی نوعیت کا تجزیہ ملتا ہے تاکہ آپ بہترین انتخاب کر سکیں۔",
+    "section2_title": "اپنے اسکور کو سمجھنا",
+    "section2_p1": "پرسنلائزڈ اسکور (1-10) اس بات کی ایک جامع درجہ بندی ہے کہ کوئی پروڈکٹ آپ کے مخصوص پروفائل کے ساتھ کتنی اچھی طرح سے مطابقت رکھتی ہے۔",
+    "section2_li1_strong": "اعلی اسکور (8-10): ",
+    "section2_li1_text": "ایک بہترین فٹ۔ यह پروڈکٹ آپ کے صحت کے اہداف کے مطابق ہے، ان غذائی اجزاء میں کم ہے جنہیں آپ کو محدود کرنے کی ضرورت ہے، اور ان میں زیادہ ہے جو آپ کو فائدہ پہنچاتے ہیں۔",
+    "section2_li2_strong": "درمیانی اسکور (4-7): ",
+    "section2_li2_text": "ایک معقول فٹ۔ اس کے کچھ فوائد ہو سکتے ہیں لیکن آپ کے پروفائل کے لیے کچھ خامیاں بھی ہو سکتی ہیں۔ اعتدال میں استعمال کرنا بہتر ہے۔",
+    "section2_li3_strong": "کم اسکور (1-3): ",
+    "section2_li3_text": "ایک ناقص فٹ۔ यह پروڈکٹ ممکنہ طور پر آپ کے صحت کے اہداف سے متصادم ہے یا اس میں متعدد اجزاء شامل ہیں جن سے آپ کو پرہیز کرنا چاہئے۔",
+    "section3_title": "غذائی اجزاء اور اجزاء کی بصیرت",
+    "section3_p1": "ہم آپ کے لیے تیار کردہ کلیدی غذائی اجزاء جیسے شوگر اور سوڈیم کے لیے رنگین کوڈڈ خطرے کی سطح (اعلی، درمیانی، کم) فراہم کرتے ہیں۔ ہم آپ کے صحت کے ڈیٹا کی بنیاد پر فہرست سے مخصوص اجزاء کو مثبت، منفی، یا غیر جانبدار کے طور पर نشان زد کرتے ہیں۔"
+  },
+  "about_page": {
+    "title": "نیوٹری اسکین AI کے بارے में",
+    "section1_title": "ہمارا مقصد",
+    "section1_p1": "\"افراد کو قابل رسائی، ذاتی نوعیت کی، اور ڈیٹا پر مبنی ٹیکنالوجی کے ذریعے باخبر اور صحت مند کھانے کے انتخاب کرنے کے لیے بااختیار بنانا۔\"",
+    "section2_title": "ہماری کہانی",
+    "section2_p1": "نیوٹری اسکین AI ایک سادہ خیال سے پیدا ہوا تھا: کھانے کے لیبل کو سمجھنا پیچیدہ نہیں ہونا چاہئے۔ ہم نے دوستوں اور خاندان والوں کو الجھے ہوئے اجزاء اور عام مشوروں سے لڑتے ہوئے دیکھا۔ ہم نے صحت کے لیے اپنے جذبے اور AI میں مہارت کو ملا کر ایک ایسا ٹول بنایا جو پیچیدہ ڈیٹا کو ہر ایک کے لیے واضح، قابل عمل بصیرت میں ترجمہ کرتا ہے۔",
+    "section3_title": "ڈیٹا کے ذرائع اور شراکتیں",
+    "section3_p1": "ہمارا تجزیہ عوامی فوڈ کمپوزیشن ڈیٹا بیس (جیسے USDA FoodData Central)، مینوفیکچر کی فراہم کردہ معلومات، اور جدید ترین AI ماڈلز کے امتזাজ سے تقویت یافتہ ہے۔ ہم اپنے سسٹمز کو تازہ ترین نیوٹریشنل سائنس اور تحقیق کے ساتھ مسلسل اپ ڈیٹ کرتے رہتے ہیں۔ ہم کسی بھی فوڈ مینوفیکچرر سے وابستہ نہیں ہیں، اس بات کو یقینی بناتے ہوئے کہ ہمارا تجزیہ غیر جانبدار اور صارف پر مرکوز رہے۔"
+  },
+  "setup": {
+    "progress": "مرحلہ {current} از {total}",
+    "finish_button": "سیٹ اپ مکمل کریں",
+    "steps": {
+      "basic_info": {
+        "title": "بنیادی معلومات",
+        "subtitle": "ہمیں اپنے بارے میں بتائیں"
+      },
+      "height": {
+        "title": "قد کا پروفائل",
+        "subtitle": "آپ کا قد کیا ہے؟",
+        "why_title": "ہمیں اس کی ضرورت کیوں ہے؟",
+        "why_text": "آپ کے BMI (باڈی ماس انڈیکس) کا حساب لگانے کے لیے آپ کا قد ضروری ہے۔ ہم اس کلیدی میٹرک کا استعمال آپ کو واقعی ذاتی نوعیت کا غذائی تجزیہ فراہم کرنے کے لیے کرتے ہیں۔"
+      },
+      "weight": {
+        "title": "Weight Profile",
+        "subtitle": "What's your current weight?",
+        "current_weight_label": "Current Weight",
+        "bmi_title": "YOUR BMI",
+        "bmi_status_underweight": "Underweight",
+        "bmi_status_healthy": "Healthy Weight",
+        "bmi_status_overweight": "Overweight",
+        "bmi_status_obese": "Obesity",
+        "bmi_status_na": "N/A",
+        "bmi_prompt": "Enter your weight to see your BMI.",
+        "bmi_support_underweight": "Your BMI is in the underweight range. Don't worry—let's work together to gain healthy weight!",
+        "bmi_support_healthy": "Your BMI is in the healthy weight range. Great job! Keep up the excellent work!",
+        "bmi_support_overweight": "Your BMI is in the overweight range. Don't worry—let's work together to achieve a healthier weight!",
+        "bmi_support_obese": "Your BMI is in the obese range. You're not alone on this journey—let's work together toward your healthy target weight!",
+        "target_weight_label": "Target Weight ({unit})",
+        "maintain_weight_checkbox": "Maintain my current weight",
+        "weight_suggestion": "Suggestion: A healthy weight for your height is around {weight} kg.",
+        "fun_fact": "Fun Fact: The heaviest person ever recorded was Jon Brower Minnoch, who reached an estimated peak weight of 1,400 pounds (635 kg)."
+      },
+      "allergies": {
+        "title": "الرجی اور عدم برداشت",
+        "subtitle": "براہ کرم ان اشیاء کو منتخب کریں جن سے آپ کو پرہیز کرنے کی ضرورت ہے۔",
+        "common_allergies_heading": "عام الرجی",
+        "other_allergies_heading": "دیگر الرجی",
+        "input_placeholder": "ایک الرجی ٹائپ کریں اور انٹر دبائیں",
+        "common_intolerances_heading": "عام عدم برداشت",
+        "disclaimer": "دستبرداری: نیوٹری اسکین AI کا تجزیہ صرف معلوماتی مقاصد کے لیے ہے۔ اگر آپ کو شدید الرجی ہے، तो कृपया उत्पाद पैकेजिंग को दोबारा जांचें۔",
+        "items": {
+          "peanuts": "مونگ پھلی",
+          "tree_nuts": "درخت کے گری دار میوے",
+          "milk": "دودھ",
+          "soy": "سویا",
+          "eggs": "انڈے",
+          "wheat": "گندم",
+          "fish": "مچھلی",
+          "shellfish": "شیلفش",
+          "sesame": "تل",
+          "mustard": "سرسوں",
+          "lactose_intolerance": "لیکٹوز عدم برداشت",
+          "gluten_sensitivity": "گلوٹین حساسیت",
+          "histamine_intolerance": "ہسٹامائن عدم برداشت",
+          "sulfite_sensitivity": "سلفائٹ حساسیت"
+        }
+      },
+      "diet": {
+        "title": "غذائی ضروریات",
+        "subtitle": "آپ کی غذائی ضروریات",
+        "restrictive_title": "پابندی والی اور مشہور غذائیں",
+        "health_title": "صحت اور طبی غذائیں",
+        "advanced_title": "جدید ترامیم",
+        "cultural_title": "ثقافتی اور طرز زندگی کی غذائیں",
+        "conflict_warning": "کیٹو اور ڈیش غذاؤں کے متضاد اصول ہیں (زیادہ چکنائی بمقابلہ کم چکنائی)۔ AI سب سے زیادہ پابندی والے طبی اصولوں کو ترجیح دے گا۔"
+      },
+      "health": {
+        "title": "صحت کا پروفائل",
+        "subtitle": "آپ کا صحت کا پروفائل",
+        "other_conditions_label": "دیگر حالات (اگر اوپر درج نہیں ہیں)",
+        "other_conditions_placeholder": "ایک شرط ٹائپ کریں اور انٹر دبائیں"
+      },
+      "eating_habits": {
+        "title": "کھانے کی عادات",
+        "subtitle": "ہمیں اپنے کھانے اور پکانے کے انداز کے بارے میں بتائیں۔"
+      },
+      "mind_body": {
+        "title": "ذہن اور جسم",
+        "subtitle": "آپ کی ہائیڈریشن، سماجی، اور ذہنی بہبود۔",
+        "water_intake_low_warning": "زیادہ تر بالغوں کے لیے روزانہ {value} پانی بہت کم ہو سکتا ہے، کیونکہ مردوں کے لیے تجویز کردہ روزانہ سیال کی مقدار تقریباً 3.7 لیٹر اور خواتین کے لیے تقریباً 2.7 لیٹر ہے، جس میں کھانے سے حاصل ہونے والے سیال بھی شامل ہیں۔",
+        "water_intake_high_warning": "میو کلینک کے مطابق، معتدل آب و ہوا میں ایک صحت مند بالغ کے لیے، دن میں {value} پانی بہت زیادہ ہو سکتا ہے، کیونکہ یہ مردوں (3.7 لیٹر) اور خواتین (2.7 لیٹر) کے لیے اوسط تجویز کردہ روزانہ سیال کی مقدار سے زیادہ ہے۔",
+        "water_intake_disclaimer": "ذاتی طبی مشورے کے لیے کسی ہیلتھ کیئر پروفیشنل سے مشورہ کریں۔"
+      },
+      "lifestyle": {
+        "title": "طرز زندگی",
+        "subtitle": "آپ کے طرز زندگی کے بارے में"
+      },
+      "summary": {
+        "title": "خلاصہ",
+        "subtitle": "اپنے پروفائل کی تصدیق کریں"
+      }
+    }
+  },
+  "notifications": {
+    "title": "اپ ڈیٹ رہیں!",
+    "body": "نیوٹری اسکین AI کو آپ کو اہم اطلاعات بھیجنے کی اجازت دیں، جیسے فوڈ ریکال الرٹس اور ذاتی نوعیت کی تجاویز۔",
+    "allow_button": "اجازت دیں",
+    "deny_button": "اجازت نہ دیں"
+  },
+  "profile": {
+    "title": "میرا پروفائل",
+    "saving": "محفوظ ہو رہا ہے...",
+    "saved": "محفوظ!",
+    "logout_button": "لاگ آؤٹ",
+    "basic_info": {
+      "title": "بنیادی معلومات",
+      "name": "نام",
+      "dob": "تاریخ پیدائش",
+      "gender": "جنس",
+      "gender_options": {
+        "male": "مرد",
+        "female": "عورت",
+        "other": "دیگر",
+        "prefer_not_to_say": "بتانا نہیں چاہتے"
+      },
+      "age_message": "آپ کی عمر {age} سال ہے۔"
+    },
+    "region": {
+      "title": "زبان اور علاقہ",
+      "state": "ریاست",
+      "city": "شہر",
+      "district_city": "ضلع/شہر",
+      "language": "زبان",
+      "suggested": "آپ کے علاقے کے لیے تجویز کردہ",
+      "other": "دیگر زبانیں",
+      "state_placeholder": "ایک ریاست منتخب کریں",
+      "city_placeholder": "ایک شہر منتخب کریں"
+    },
+    "biometrics": {
+      "title": "بایومیٹرکس",
+      "height": "قد (سینٹی میٹر)",
+      "current_weight": "موجودہ وزن (کلوگرام)",
+      "target_weight": "ہدف وزن (کلوگرام)"
+    },
+    "health": {
+      "title": "صحت اور خوراک",
+      "conditions": "صحت کے حالات",
+      "condition_options": {
+        "diabetes": "ٹائپ 2 ذیابیطس",
+        "blood_pressure": "ہائی بلڈ پریشر",
+        "ckd": "CKD اسٹیج 3",
+        "heart_disease": "دل کی بیماری",
+        "pcos": "PCOS",
+        "obesity": "موٹاپا"
+      },
+      "diet_prefs": "غذائی ترجیحات",
+      "diet_pref_options": {
+        "non_vegetarian": "غیر سبزی خور",
+        "vegetarian": "سبزی خور",
+        "vegan": "ویگن",
+        "low_sodium": "کم سوڈیم",
+        "keto": "کیٹو",
+        "paleo": "پیلیو",
+        "halal": "حلال",
+        "dash": "DASH",
+        "diabetic": "ذیابیطس / کم GI",
+        "gluten_free": "گلوٹین سے پاک",
+        "lactose_free": "لیکٹوز سے پاک / ڈیری سے پاک",
+        "low_fodmap": "کم فوڈ میپ",
+        "renal": "گردوں کی خوراک (CKD)",
+        "high_protein": "زیادہ پروٹین",
+        "whole_food": "پوری خوراک پر توجہ مرکوز",
+        "intermittent_fasting": "وقفے وقفے سے روزہ (IF)",
+        "kosher": "کوشر",
+        "jain": "جین",
+        "ayurvedic": "آیورویدک"
+      },
+      "allergies": "الرجی",
+      "allergies_placeholder": "الرجی شامل کریں اور انٹر دبائیں",
+      "intolerances": "عدم برداشت",
+      "intolerances_placeholder": "عدم برداشت شامل کریں اور انٹر دبائیں",
+      "medications": "ادویات",
+      "medications_placeholder": "دوا شامل کریں اور انٹر دبائیں"
+    },
+    "eating_habits": {
+      "title": "کھانے کی عادات",
+      "meal_frequency": "کھانے کی تعدد",
+      "meal_frequency_options": {
+        "one_two": "1-2 کھانے/دن",
+        "three": "3 کھانے/دن",
+        "four_five": "4-5 چھوٹے کھانے/دن"
+      },
+      "cooking_skills": "کھانا پکانے کی مہارت",
+      "cooking_skills_options": {
+        "beginner": "مبتدی",
+        "intermediate": "درمیانی",
+        "expert": "ماہر"
+      }
+    },
+    "mind_body": {
+      "title": "ذہن اور جسم",
+      "water_intake": "اوسط روزانہ پانی کی مقدار (لیٹر)",
+      "primary_beverages": "بنیادی مشروبات",
+      "primary_beverages_options": {
+        "water": "پانی",
+        "coffee_tea": "کافی/چائے",
+        "sugary_drinks": "میٹھے مشروبات"
+      },
+      "life_stage": "زندگی کا مرحلہ",
+      "life_stage_options": {
+        "student": "طالب علم",
+        "professional": "پیشہ ور",
+        "parent": "والدین",
+        "retiree": "ریٹائرڈ"
+      },
+      "motivation": "حوصلہ افزائی اور تیاری",
+      "motivation_options": {
+        "thinking": "اس کے بارے میں سوچ رہا ہوں",
+        "ready": "شروع کرنے کے لیے تیار",
+        "started": "پہلے ہی شروع کر دیا ہے"
+      },
+      "social_support": "سماجی حمایت",
+      "social_support_options": {
+        "yes": "ہاں",
+        "no": "نہیں"
+      },
+      "life_events": "حالیہ زندگی کے واقعات",
+      "life_events_placeholder": "ایونٹ شامل کریں اور انٹر دبائیں"
+    },
+    "lifestyle": {
+      "title": "عمومی طرز زندگی",
+      "activity": "سرگرمی کی سطح",
+      "activity_options": {
+        "sedentary": "سست",
+        "light": "ہلکی",
+        "moderate": "اعتدال پسند",
+        "active": "فعال",
+        "athlete": "ایتھلیٹ"
+      },
+      "stress": "تناؤ کی سطح",
+      "stress_options": {
+        "low": "کم",
+        "medium": "درمیانی",
+        "high": "زیادہ"
+      },
+      "smoking": "سگریٹ نوشی",
+      "smoking_options": {
+        "yes": "ہاں",
+        "no": "نہیں"
+      },
+      "alcohol": "شراب نوشی",
+      "alcohol_options": {
+        "never": "کبھی نہیں",
+        "occasionally": "کبھی کبھار",
+        "daily": "روزانہ"
+      },
+      "sleep": "اوسط نیند کے گھنٹے",
+      "sleep_tracking": "نیند کے ڈیٹا کا ذریعہ",
+      "sleep_tracking_options": {
+        "estimate": "تخمینہ",
+        "tracked": "ٹریک کیا گیا"
+      },
+      "sleep_quality": "نیند کا معیار",
+      "sleep_quality_options": {
+        "poor": "ناقص",
+        "fair": "مناسب",
+        "good": "اچھا",
+        "excellent": "بہترین"
+      }
+    },
+    "validation": {
+      "dob_required": "تاریخ پیدائش درکار ہے۔",
+      "dob_invalid": "براہ کرم ایک درست تاریخ منتخب کریں۔",
+      "dob_future": "پیدائش کی تاریخ مستقبل میں نہیں ہو سکتی۔",
+      "dob_too_old": "تاریخ 1 جنوری 1935 سے پہلے نہیں ہو سکتی۔",
+      "dob_too_young": "آپ کی عمر کم از کم {minAge} سال ہونی چاہیے۔"
+    }
+  },
+  "analysis": {
+    "no_data_title": "تجزیہ کا کوئی ڈیٹا نہیں",
+    "no_data_subtitle": "کچھ غلط ہو گیا۔ براہ کرم دوبارہ اسکین کرنے کی کوشش کریں۔",
+    "go_home_button": "گھر جائیں",
+    "processing": "تجزیہ کے نتائج پر کارروائی ہو رہی ہے...",
+    "ask_ai_meal_button": "اس کھانے کے بارے میں نیوٹری اسکین AI سے پوچھیں",
+    "ask_ai_label_button": "اس لیبل کے بارے में نیوٹری اسکین AI سے پوچھیں",
+    "recall": {
+      "title": "فوری: ممکنہ فوڈ سیفٹی الرٹ",
+      "source": "ذریعہ",
+      "verify": "سرکاری ماخذ پر تصدیق کریں",
+      "check_official": "مزید معلومات کے لیے براہ کرم FDA.gov جیسی سرکاری ذرائع دیکھیں۔",
+      "disclaimer": "دستبرداری: यह AI سے تیار کردہ الرٹ ہے۔ کارروائی کرنے سے پہلے ہمیشہ سرکاری ذرائع سے تصدیق کریں۔"
+    },
+    "interaction": {
+      "title": "منشیات-غذائی اجزاء کے تعامل کا الرٹ"
+    },
+    "summary": {
+      "title": "AI نیوٹریشنسٹ کا خلاصہ"
+    },
+    "compliance": {
+      "title": "غذائی تعمیل",
+      "compliant": "ممکنہ طور پر مطابق",
+      "issue": "ممکنہ مسئلہ"
+    },
+    "facts": {
+      "title": "غذائیت کے حقائق",
+      "nutrient": "غذائیت",
+      "dv": "٪ یومیہ قدر"
+    },
+    "ingredients": {
+      "title": "اجزاء اور الرجن",
+      "contains": "پر مشتمل ہے"
+    },
+    "feedback": {
+      "thanks": "آپ کے تاثرات کا شکریہ!",
+      "prompt": "کیا यह تجزیہ مددگار تھا؟"
+    }
+  },
+  "locations": {
+    "states": {
+        "Jammu and Kashmir": "جموں و کشمیر",
+        "Andaman and Nicobar Islands": "انڈمان اور نیکوبار جزائر"
+    }
+  },
+  "languages": {
+    "English": "English",
+    "Hindi": "हिंदी",
+    "Tamil": "தமிழ்",
+    "Malayalam": "മലയാളം"
+  }
+}
